@@ -1,1 +1,1 @@
-# Exercicio-calculo-de-media-da-sala
+# Exercicio-calculo-de-media-dos- alunos vetores
