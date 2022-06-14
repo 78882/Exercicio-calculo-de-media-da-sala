@@ -2,18 +2,18 @@ public class media_alunos_vet{
     public static void main(String[] args){
         //Declara a variável i
         int i;
-        //Declara a Array Q, e atribuilo o tamanho 6
+        //Declara a Array Q e atribuilo o tamanho 6
         double Q[] = new double[6]; 
-        //Declara os valores de cada 
+        //Declarar os valores de cada 
         Q[0] = 35;
         Q[1] = 4;
         Q[2] = 22;
         Q[3] = 20;
         Q[4] = 36; 
         Q[5] = 30;
-        // Calculo da média
+        // Calculo da média da sala
         double media = ((Q[0] + Q[1] + Q[2] + Q[3] + Q[4] + Q[5]) / 6);
-        //Demonstra ao usuário a média de alunos da sala
+        //Demonstra aos usuários a média de alunos da sala
         System.out.println("A media de alunos é: " + media);
         
         //Faz o uso da estrutura de repetição do For
